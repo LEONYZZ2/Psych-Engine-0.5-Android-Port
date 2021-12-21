@@ -1,0 +1,33 @@
+{
+  "name": "Gumball",
+  "asset": "characters/gumball",
+  "barColor": "#02B5EE",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "singLEFT",
+      "prefix": "gumbal left",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "gumbal down",
+      "offsets": [0,  0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "gumbal up",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "gumbal right",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "idle",
+      "prefix": "gumbal idle",
+      "offsets": [0, 0]
+    }
+  ]
+}
